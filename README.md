@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @realtimestert
-- 👀 I’m interested in Python and DevOps
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python, Linux, and DevOps
+- 🌱 I’m currently learning bash and networking
+- 💞️ I’m looking to collaborate on anything open source for beginners
 - 📫 How to reach me evansstuartj@gmail.com
 
 <!---
