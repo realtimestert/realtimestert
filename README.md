@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @realtimestert
 - 👀 I’m interested in Python, Linux, DevOps, and database management systems.
 - 🌱 I’m currently learning Linux Administration, AWS CloudFormation, Oracle SQL plus, and PostgreSQL.
-- 💞️ I’m looking to collaborate on anything open source.
+- ✏️ I’m looking to collaborate on anything open source.
 - 🐾 I am currently working hard on database management software for SanusBio Farms.
 - 📫 How to reach me evansstuartj@gmail.com
 
