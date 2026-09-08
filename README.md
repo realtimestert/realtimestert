@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Linux, DevOps, and database management systems.
 - 🌱 I’m currently learning Linux Administration, AWS CloudFormation, Oracle SQL plus, and PostgreSQL.
 - ✏️ I’m looking to collaborate on anything open source.
-- 🐾 I am currently working hard on database management software for SanusBio Farms.
+- 🐾 I am currently working hard on database management software for SanusBio Farms. I am also working on research monitoring via raspberry pi cameras.
 - 📫 How to reach me evansstuartj@gmail.com
 
 <!---
